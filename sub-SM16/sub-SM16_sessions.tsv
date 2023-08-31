@@ -1,0 +1,2 @@
+session_id	age	weight	height	acq_time	percent_time_awake	percent_time_stage_1	percent_time_stage_2	percent_time_stage_3	percent_time_rem	trained_visual_field
+ses-Awake	22	77.3	0	2012-01-01T00:00:00	93	6	1	0	0	left
